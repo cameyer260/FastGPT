@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "FastGPT",
     "description": "Adds up/down arrows (and user key arrow inputs) to travel up to the last prompt or down to the next prompt on Chat GPT",
-    "version": "1.0",
+    "version": "2.0",
     "icons": {
         "16": "images/icon-16.jpg",
         "32": "images/icon-32.jpg",
